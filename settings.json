@@ -1,0 +1,13 @@
+{
+    "name": "Fart",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "none",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single",
+        "/category/collection/core-entity": true
+    }
+}
